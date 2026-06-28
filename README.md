@@ -1,7 +1,9 @@
-# Epic Seven Secret Shop Auto Refresh (에픽세븐 비상런 자동화 매크로)
+# 에픽세븐 비상런 자동화 한글 버전
 
-이 프로젝트는 파이썬 기반의 에픽세븐(Epic Seven) 비밀 상점 매크로 프로그램입니다. 직관적인 GUI를 제공하며, 
-화면 인식(OpenCV)을 통해 성약의 책갈피와 신비의 메달을 자동으로 구매합니다.
+이 프로젝트는 Solunium(https://github.com/Solunium/Epic-Seven-E7-Secret-Shop-Refresh)이 제작한 
+파이썬 기반의 에픽세븐(Epic Seven) 비밀 상점 매크로 프로그램을 한글화하고, 일부 로직을 개선해 속도를 조금 더 빠르게 제작한 프로그램입니다.
+
+원작자의 라이센스 조항에 따라  GPL-3.0 license로 운영 됩니다.
 
 ## ✨ 사용 방법
 1단계: 최신 릴리스를 다운로드하세요. 반드시 (Secret_Shop_KR.zip) 파일을 다운로드해야 합니다.
